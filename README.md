@@ -4,7 +4,7 @@
 I am an aspiring Data Analyst currently training with Merit America. With a strong background in physics and analytical thinking, I am passionate about uncovering insights from data, solving complex problems, and helping organizations make data-driven decisions.
 
 ## Skills & Goals
-- *Skills:* Data Analysis, Analytical Thinking, Problem Solving, and learning technical tools (SQL, Python, Excel).
+- *Skills:* Data Analysis, Analytical Thinking, Problem Solving, and learning technical tools (SQL, Capstone, Excel).
 - *Goals:* To transition into a professional Data Analyst role, continuously expand my technical toolkit, and build impactful data projects.
 
 ---
