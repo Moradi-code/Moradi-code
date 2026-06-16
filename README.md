@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Allahyar Moradi! 👋
 
-<!--
-**Moradi-code/Moradi-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am an aspiring Data Analyst currently training with Merit America. With a strong background in physics and analytical thinking, I am passionate about uncovering insights from data, solving complex problems, and helping organizations make data-driven decisions.
 
-Here are some ideas to get you started:
+## Skills & Goals
+- *Skills:* Data Analysis, Analytical Thinking, Problem Solving, and learning technical tools (SQL, Python, Excel).
+- *Goals:* To transition into a professional Data Analyst role, continuously expand my technical toolkit, and build impactful data projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## My Projects 📊
+
+### 1. SQL Project
+* *Status:* ⏳ Coming Soon
+* *Description:* A comprehensive data analysis project using SQL to query, clean, and analyze datasets.
+
+### 2. Capstone Project
+* *Status:* ⏳ Coming Soon
+* *Description:* A final, comprehensive data analytics project demonstrating end-to-end analysis skills.
+
+### 3. Excel Project
+* *Status:* ⏳ Coming Soon
+* *Description:* A data project focusing on data organization, formulas, and analysis using advanced Excel.
+* 
+## Contact Information 📬
+If you would like to connect or discuss opportunities, feel free to reach out:
+
+* *Email:*allahyarmoradi2@gmail.com
